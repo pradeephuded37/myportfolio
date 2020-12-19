@@ -31,7 +31,7 @@ SECRET_KEY = 'o5!0k+rsd^)d^!ye9kxnl0+w(_i84ghvwgu-j4d22yzrt-t156'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','pradeepportfolio.herokuapp.com']
 
 
 # Application definition
